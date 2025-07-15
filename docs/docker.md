@@ -1,4 +1,4 @@
-# Running Percona XtraDB Cluster in a Docker Container
+# Run in a Docker container
 
 Docker images of Percona XtraDB Cluster are hosted publicly on Docker Hub at
 [https://hub.docker.com/r/percona/percona-xtradb-cluster/](https://hub.docker.com/r/percona/percona-xtradb-cluster/).
